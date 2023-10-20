@@ -1,0 +1,35 @@
+.news-article-img{
+    height: 250px;
+   display: block;
+   object-fit: cover;
+   width: 300px;
+   margin: 0 auto;
+   }
+.news-article-cards{
+   margin-bottom: 50px;
+   width: 300px;
+   font-size: 10px;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   box-shadow: 0 0 10px rgba(0,0,0,0.2);
+   padding: 10px;
+   
+   }
+   .author-name{
+      font-size: 12px;
+   }
+   .des{
+      font-size: 13px;
+   }
+   .readbtn{
+    color: white;
+    padding: 8px;
+      border-radius: 10px;
+      font-size: 10px;
+     margin: 70px;
+     margin-bottom: -40px;
+      text-decoration: none;
+      background-color: rgb(37, 37, 233);
+     
+   }
+   
